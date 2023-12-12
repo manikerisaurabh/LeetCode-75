@@ -28,6 +28,7 @@ Examples :
 */
 public class 6 {
     public boolean increasingTriplet(int[] nums) {
+        
         int l=nums.length;
         if(nums.length<3) {
             return false;
