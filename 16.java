@@ -1,5 +1,5 @@
 /*
-===================================================== 1732. Find the Highest Altitude======================================================
+===================================================== 1732. Find the Highest Altitude  ======================================================
 
 
 Problem Statement : There is a biker going on a road trip. The road trip consists of n + 1 points at different altitudes. 
