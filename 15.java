@@ -1,5 +1,5 @@
 /*
-=====================================================  1493. Longest Subarray of 1's After Deleting One Element======================================================
+=====================================================  1493. Longest Subarray of 1's After Deleting One Element ======================================================
 
 
 Problem Statement : Given a binary array nums, you should delete one element from it.
